@@ -1,0 +1,150 @@
+.center {
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+.example {
+    background-color: a379c2;
+    color: black;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: medium;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.45);
+}
+
+.example:hover {
+    background-color: white;
+}
+
+.example:active {
+    background-color: rgb(226, 173, 173);
+}
+
+/* work from here only */
+.leetcode {
+    background-color: white;
+    color: #9080ce;
+    /* padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    padding: 7px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-size: medium;
+    transition: box-shadow 0.15s;
+}
+
+.leetcode:hover {
+    background-color: #9080ce;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.45);
+    color: black;
+}
+
+.linkedin {
+    background-color: white;
+    color: rgb(25, 138, 100);
+    /* padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    padding: 7px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-size: medium;
+    transition: box-shadow 0.15s;
+}
+
+.linkedin:hover {
+    background-color: aquamarine;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.45);
+    color: black;
+}
+
+.coding-ninjas {
+    background-color: white;
+    color: #7fbf26;
+    /* padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    padding: 7px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-size: medium;
+    transition: box-shadow 0.15s;
+}
+
+.coding-ninjas:hover {
+    background-color: #c1ed83;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.45);
+    color: black;
+}
+
+.codeforces {
+    background-color: white;
+    color: #d4c525;
+    /* padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    padding: 7px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-size: medium;
+    transition: box-shadow 0.15s;
+}
+
+.codeforces:hover {
+    background-color: #eddd2e;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.45);
+    color: black;
+}
+
+.codechef {
+    background-color: white;
+    color: #ffa600;
+    /* padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    padding: 7px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    font-size: medium;
+    transition: box-shadow 0.15s;
+}
+
+.codechef:hover {
+    background-color: #de991a;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.45);
+    color: black;
+}
+
+.geeksforgeeks {
+    background-color: white;
+    color: #dc6b6d;
+    /* padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    padding: 7px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: medium;
+    transition: box-shadow 0.15s;
+}
+
+.geeksforgeeks:hover {
+    background-color: #ee0509;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.45);
+    color: black;
+}
